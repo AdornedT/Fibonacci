@@ -14,7 +14,7 @@ RESULTADO : Resposta do programa deve ser 0.
 TESTE 3   : Calcule o termo 1.
 RESULTADO : Resposta do programa deve ser 1.
 
-TESTE 3   : Calcule qualqeur termo de fibonacci que não seja 0 ou 1.
+TESTE 3   : Calcule qualquer termo de fibonacci que não seja 0 ou 1.
 RESULTADO : Dado a resposta estar correta, pode se estipular que para todos os outros termos o programa irá calcular sem problemas.
 
 Neste link segue uma explicação do que é a sequência de Fibonacci e alguns termos pré calculados: https://www.todamateria.com.br/sequencia-de-fibonacci/
